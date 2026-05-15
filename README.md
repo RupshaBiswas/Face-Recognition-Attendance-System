@@ -236,7 +236,7 @@ Used for:
 
 <td align="center" width="250">
 
-<img src="https://cdn-icons-png.flaticon.com/512/4144/4144783.png" width="90"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="90"/>
 
 # ☁️ Smart Automation
 
