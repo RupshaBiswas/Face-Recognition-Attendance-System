@@ -1,6 +1,3 @@
-# Face-Recognition-Attendance-System
-An Automated **Face Recognition Attendance System** built with Python, OpenCV, and DeepFace (ArcFace). The system detects and recognizes multiple faces in real time through a webcam and marks attendance automatically. It reads class schedules from Excel, activates during class time, and stores attendance records in CSV format.
-
 <div align="center">
 
 # 🎓 AI-Powered Smart Attendance Recording System  
@@ -236,7 +233,7 @@ Used for:
 
 <td align="center" width="250">
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="90"/>
+<img src="https://cdn-icons-png.flaticon.com/512/4144/4144783.png" width="90"/>
 
 # ☁️ Smart Automation
 
@@ -376,7 +373,7 @@ python app.py
 
 </div>
 
-The system demonstrated high robustness under varying classroom conditions and lighting environments.
+The system demonstrated high robustness under varying classroom conditions and lighting environments. :contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -417,14 +414,13 @@ The system demonstrated high robustness under varying classroom conditions and l
 
 ### 👩‍💻 Rupsha Biswas  
 ### 👨‍💻 Sayan Das  
-
 </div>
 
 ---
 
 # 📜 Research Paper  
 
-📄 **A Hybrid Computer Vision and Data Synchronization Approach to Smart Attendance Recording System** :contentReference[oaicite:2]{index=2}
+📄 **A Hybrid Computer Vision and Data Synchronization Approach to Smart Attendance Recording System** 
 
 ---
 
