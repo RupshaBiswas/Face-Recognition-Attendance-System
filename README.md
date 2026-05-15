@@ -376,7 +376,7 @@ python app.py
 
 </div>
 
-The system demonstrated high robustness under varying classroom conditions and lighting environments. :contentReference[oaicite:1]{index=1}
+The system demonstrated high robustness under varying classroom conditions and lighting environments.
 
 ---
 
